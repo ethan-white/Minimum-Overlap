@@ -5,13 +5,13 @@ The author of this repository recommends first familiarizing oneself with the ba
 
 In this repository you will find code for four programs, all written in OPL and meant to be run on IBM's CPLEX software. A user may be able to somewhat easily convert between this language and another of their choosing. The programs are:
 
-## MO_simple_primal.txt
+### MO_simple_primal.txt
 
-## MO_simple_dual.txt
+### MO_simple_dual.txt
 
-## MO_convex_primal.txt
+### MO_convex_primal.txt
 
-## MO_convex_dual.txt
+### MO_convex_dual.txt
 
 
 
